@@ -1,0 +1,3 @@
+'ANET', 'APP', 'ASC', 'AVY', 'BFS', 'CFB', 'CME', 'CSX', 'EAT', 'ESQ', 'EVTC', 'FN', 'HQY', 'HWM', 'IMMR', 'INBK',
+ 'INTR', 'INTU', 'ITUB', 'LMAT', 'LRCX', 'NEN', 'NGVC', 'NSSC', 'NU', 'NVDA', 'OWL', 'PAYO', 'PAYOW', 'PLTR', 'RAND',
+ 'RBA', 'RVLV', 'SEIC', 'SF', 'SII', 'SPNS', 'TCBX', 'TDW', 'TIPT', 'TXRH', 'UHS', 'UPWK', 'VEEV', 'WWD'
